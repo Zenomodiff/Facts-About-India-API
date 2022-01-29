@@ -1,7 +1,7 @@
-# Facts About India 🍛 🧘
+# Facts About India 🍛 🧘  🇮🇳
 
-+ An API that will return random Food Names 🍡🥧🎂🌮
-+ Dedicated To All Food Lovers ❤️
++ An API that will return random Facts About India 
++ Dedicated To All Who ❤️ INDIA
 
 ## Usage:
 
